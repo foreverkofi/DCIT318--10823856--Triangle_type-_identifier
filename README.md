@@ -1,9 +1,7 @@
 using System;
-
 namespace TriangleTypeIdentifier
-{
-    class Program
-    {
+{  class Program
+  {
         static void Main(string[] args)
         {
             // enter the lengths of the three sides of the triangle
